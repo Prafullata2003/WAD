@@ -1,0 +1,4 @@
+name:Komal Sarkate
+class:TE
+subject:Wad
+description:LP 2
